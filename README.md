@@ -4,7 +4,7 @@
 Curso 2017-18  
 Écija (Sevilla)  
 
-![Entornos de desarrollo](http://www.dosbit.com/images/2012/08/XCode-Logo-e1346304158284.jpg)
+![Entornos de desarrollo](img/logo.jpg)
 
 ## Contenidos del módulo
 
